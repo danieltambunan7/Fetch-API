@@ -1,0 +1,19 @@
+#judul{
+    color: rgb(233, 71, 42);
+    margin-bottom: 30px;
+}
+
+.container{
+    border: 5px;
+    margin: 20px;
+    padding: 20px;
+    border-style:inset;
+}
+
+#tabel{
+    text-align: center;
+    margin: auto;
+    padding: 2px;
+    cursor: pointer;
+    width: 70%;
+}
